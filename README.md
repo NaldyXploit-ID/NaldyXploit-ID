@@ -7,19 +7,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡-WELCOME%20TO%20MY%20KINGDOM-FFD700?style=for-the-badge&labelColor=000000&logo=github" />
+# **NaldyXploit-ID**
 
-# 👑 **NaldyXploit-ID**
-
-### 💎 Cybersecurity Enthusiast • Fullstack Developer • Code Artisan
-
-> “Code like a hacker, build like an architect, think like a king.”
-
----
-
-### 🌌 **Luxury • Precision • Power**
-I turn **ideas** into **digital excellence** — with clean code, automation, and security in mind.  
-Everything here is crafted for performance and elegance ⚙️✨
+###  Cybersecurity Enthusiast • Fullstack Developer • Code Artisan
 
 </div>
 

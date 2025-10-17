@@ -9,7 +9,7 @@
 
 # **NaldyXploit-ID**
 
-###  Cybersecurity Enthusiast • Fullstack Developer • Code Artisan
+###  CyberSecurity Enthusiast • Fullstack Developer • CodeArtisan
 
 </div>
 
@@ -104,15 +104,5 @@
 <a href="https://t.me/NaldyXploitID">
   <img src="https://img.shields.io/badge/Telegram-@NaldyXploitID-000000?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=000000&color=FFD700">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **Signature of Excellence**
-<sub>🛠️ Profile designed in <strong>Dark + Gold</strong> aesthetic.  
-Automated with Python & GitHub Actions for dynamic updates.</sub>
 
 </div>

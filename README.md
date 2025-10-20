@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# **NaldyXploit-ID**
+# **NaldyXploit**
 
 ###  CyberSecurity Enthusiast • Fullstack Developer • CodeArtisan
 
@@ -95,13 +95,13 @@
 
 ### 🪙 **Connect with Me**
 
-<a href="https://github.com/NaldyXploit-ID">
+<a href="https://github.com/NaldyXploit">
   <img src="https://img.shields.io/badge/GitHub-NaldyXploit--ID-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000&color=FFD700">
 </a>
-<a href="mailto:naldyxploit.id@gmail.com">
-  <img src="https://img.shields.io/badge/Email-naldyxploit.id%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000&color=FFD700">
+<a href="mailto:naldyxploit@gmail.com">
+  <img src="https://img.shields.io/badge/Email-naldyxploit%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000&color=FFD700">
 </a>
-<a href="https://t.me/NaldyXploitID">
+<a href="https://t.me/NaldyXploit">
   <img src="https://img.shields.io/badge/Telegram-@NaldyXploitID-000000?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=000000&color=FFD700">
 </a>
 
